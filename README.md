@@ -7,7 +7,7 @@
 - Embedded C
 - ARM Cortex (STM32, ARM7)
 - Linux Device Drivers
-- I2C / SPI / UART
+- I2C / SPI / UART / USB
 - RTOS / Yocto
 
 ## 🚀 Projects
