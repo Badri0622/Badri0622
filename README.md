@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Badri (Badrinadh)
 
-<!--
-**Badri0622/Badri0622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Embedded Systems Engineer** • C • C++ • Embedded C • ARM Cortex • Linux Device Drivers
 
-Here are some ideas to get you started:
+## 🔧 Top Skills
+- C / C++
+- Embedded C
+- ARM Cortex (STM32, ARM7)
+- Linux Device Drivers
+- I2C / SPI / UART
+- RTOS / Yocto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **Multi-Purpose E-Card System (ARM7)** — brief 1-line description.
+- **Character Device Driver** — Linux driver with basic file ops and IOCTL.
+- **I2C Sensor Driver (LM75)** — Raspberry Pi I2C sensor driver.
+
+## 📫 Contact
+- Email: iambadrinadh2@gmail.com
+- LinkedIn: https://www.linkedin.com/in/badrinadh0622
